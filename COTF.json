@@ -1,6 +1,6 @@
 {
 	"Name": "Champions Of The Fog (Seasonal)",
-	"Version": 1728590063,
+	"Version": 1736582562,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Any Indoor Map Will Require A Putrid Oak And Only A shroud Of Binding + Vigos Shroud",
 	"Tiers": [
@@ -24,28 +24,24 @@
 				"24",
 				"25",
 				"60",
-				"246",
+				"273",
 				"29",
 				"30",
 				"248",
-				"40",
 				"43",
+				"44",
 				"268",
 				"267",
 				"46",
-				"261",
-				"49",
+				"51",
 				"262",
 				"55",
-				"56",
+				"274",
 				"252",
 				"59",
 				"62",
 				"66",
-				"68",
-				"69",
 				"70",
-				"259",
 				"269",
 				"73",
 				"74",
@@ -54,7 +50,6 @@
 				"79",
 				"80",
 				"81",
-				"82",
 				"83",
 				"84",
 				"86",
@@ -66,8 +61,8 @@
 				"99",
 				"100",
 				"102",
+				"275",
 				"105",
-				"106",
 				"108",
 				"110",
 				"263",
@@ -76,7 +71,6 @@
 				"253",
 				"115",
 				"116",
-				"120",
 				"126",
 				"128",
 				"254",
@@ -84,6 +78,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"133",
+				"270",
 				"134",
 				"136",
 				"245",
@@ -105,17 +100,21 @@
 				"174",
 				"175",
 				"178",
-				"184",
+				"180",
+				"183",
 				"264",
 				"185",
 				"186",
 				"265",
 				"256",
 				"195",
+				"271",
 				"205",
 				"209",
 				"211",
 				"216",
+				"272",
+				"219",
 				"225",
 				"226",
 				"227",
@@ -123,7 +122,6 @@
 				"238",
 				"249",
 				"250",
-				"251",
 				"257",
 				"242"
 			],
@@ -192,7 +190,6 @@
 				"37",
 				"38",
 				"39",
-				"44",
 				"261",
 				"57",
 				"61",
@@ -215,7 +212,8 @@
 				18
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -250,7 +248,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "On Midwich only vigo's shroud and shroud of binding is required for survivor ",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -274,7 +272,6 @@
 				"37",
 				"38",
 				"39",
-				"44",
 				"261",
 				"57",
 				"61",
@@ -298,7 +295,8 @@
 				39
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -347,8 +345,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"168",
-				"183",
 				"204",
 				"220"
 			],
@@ -360,9 +356,7 @@
 			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"261"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -372,7 +366,8 @@
 			],
 			"ItemWhitelist": [
 				9,
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -423,10 +418,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"168",
 				"204",
-				"220",
-				"235"
+				"220"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -436,9 +429,7 @@
 			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"261"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -465,7 +456,8 @@
 			],
 			"ItemWhitelist": [
 				9,
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -521,18 +513,18 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"27",
 				"28",
 				"33",
+				"34",
 				"36",
 				"37",
 				"38",
 				"39",
-				"44",
 				"261",
 				"57",
 				"61",
-				"62",
 				"65",
 				"76",
 				"85",
@@ -555,7 +547,8 @@
 				98
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -612,14 +605,14 @@
 				"27",
 				"28",
 				"33",
+				"34",
 				"36",
 				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
-				"62",
 				"65",
 				"76",
 				"85",
@@ -646,7 +639,8 @@
 				119
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -681,7 +675,7 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "",
+			"KillerNotes": "No Double Discipline\n",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -701,12 +695,13 @@
 				"11",
 				"21",
 				"26",
+				"246",
 				"34",
 				"36",
 				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
@@ -728,7 +723,8 @@
 				139
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -785,12 +781,11 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -809,7 +804,8 @@
 				154
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -868,12 +864,11 @@
 				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"92",
 				"109",
 				"112",
@@ -892,7 +887,8 @@
 				174
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -942,19 +938,21 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
+				"246",
 				"34",
 				"36",
+				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -971,7 +969,8 @@
 				198
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1028,17 +1027,18 @@
 				"27",
 				"28",
 				"33",
+				"34",
+				"36",
 				"37",
 				"38",
 				"39",
 				"44",
+				"261",
 				"57",
 				"61",
-				"62",
 				"65",
 				"76",
 				"85",
-				"96",
 				"92",
 				"107",
 				"109",
@@ -1060,7 +1060,8 @@
 				216
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1115,16 +1116,16 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"34",
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -1138,10 +1139,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				235,
-				236,
-				237,
-				238,
 				219,
 				220,
 				221,
@@ -1154,11 +1151,16 @@
 				228,
 				229,
 				230,
+				232,
 				233,
-				232
+				235,
+				236,
+				237,
+				238
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1187,7 +1189,8 @@
 				6
 			],
 			"KillerOfferings": [
-				5
+				5,
+				8
 			]
 		},
 		{
@@ -1206,7 +1209,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"168",
 				"204",
 				"220"
 			],
@@ -1228,8 +1230,7 @@
 				"67",
 				"78",
 				"82",
-				"103",
-				"115"
+				"103"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -1249,20 +1250,15 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				9
+				9,
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": [
@@ -1316,12 +1312,11 @@
 				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"92",
 				"109",
 				"112",
@@ -1336,7 +1331,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1392,13 +1388,13 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"53",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
-				"121"
+				"121",
+				"127"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -1413,7 +1409,8 @@
 				298
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1475,14 +1472,12 @@
 				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
-				"62",
 				"65",
 				"76",
 				"85",
-				"96",
 				"92",
 				"107",
 				"109",
@@ -1502,7 +1497,8 @@
 				318
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1559,12 +1555,11 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -1581,7 +1576,8 @@
 				338
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1637,11 +1633,10 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
 				"121",
 				"127"
@@ -1657,7 +1652,8 @@
 				358
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1713,13 +1709,11 @@
 				"36",
 				"38",
 				"39",
-				"44",
-				"101",
+				"261",
 				"57",
 				"61",
 				"76",
 				"78",
-				"96",
 				"109",
 				"121"
 			],
@@ -1734,7 +1728,8 @@
 				378
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1790,11 +1785,9 @@
 				"36",
 				"38",
 				"39",
-				"44",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
 				"121",
 				"127"
@@ -1809,7 +1802,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1858,7 +1852,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"168",
 				"204",
 				"220"
 			],
@@ -1870,24 +1863,12 @@
 			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"261"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				412,
-				413,
-				414,
-				415,
-				416,
-				417,
-				418,
-				408,
-				409,
-				410,
 				399,
 				400,
 				401,
@@ -1895,11 +1876,22 @@
 				403,
 				404,
 				405,
-				406
+				406,
+				408,
+				409,
+				410,
+				412,
+				413,
+				414,
+				415,
+				416,
+				417,
+				418
 			],
 			"ItemWhitelist": [
 				9,
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1937,7 +1929,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2043,18 +2035,16 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"11",
 				"21",
 				"34",
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
 				"121",
 				"127"
@@ -2071,6 +2061,7 @@
 				455
 			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -2129,11 +2120,12 @@
 				"36",
 				"38",
 				"39",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
+				"109",
 				"112",
 				"121",
 				"127"
@@ -2146,11 +2138,12 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				474,
-				477,
+				476,
 				478
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2207,13 +2200,12 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"101",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -2230,7 +2222,8 @@
 				498
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2286,11 +2279,10 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
 				"121"
 			],
@@ -2306,7 +2298,8 @@
 				515
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2360,6 +2353,7 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"27",
 				"28",
 				"33",
@@ -2368,14 +2362,12 @@
 				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
-				"62",
 				"65",
 				"76",
 				"85",
-				"96",
 				"92",
 				"107",
 				"109",
@@ -2397,6 +2389,7 @@
 				536
 			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -2451,6 +2444,7 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"27",
 				"28",
 				"33",
@@ -2459,14 +2453,11 @@
 				"37",
 				"38",
 				"39",
-				"44",
 				"57",
 				"61",
-				"62",
 				"65",
 				"76",
 				"85",
-				"96",
 				"92",
 				"107",
 				"109",
@@ -2489,7 +2480,8 @@
 				548
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2545,11 +2537,10 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
 				"121",
 				"127"
@@ -2567,6 +2558,7 @@
 				576
 			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -2624,11 +2616,11 @@
 				"38",
 				"39",
 				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -2641,7 +2633,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				593,
 				594,
 				595,
 				596,
@@ -2649,7 +2640,8 @@
 				598
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2703,16 +2695,17 @@
 				"8",
 				"11",
 				"21",
+				"246",
 				"34",
 				"36",
+				"37",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"92",
 				"109",
 				"112",
@@ -2730,6 +2723,7 @@
 				618
 			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -2786,13 +2780,13 @@
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
-				"121"
+				"121",
+				"127"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2807,7 +2801,8 @@
 				638
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2863,13 +2858,12 @@
 				"36",
 				"38",
 				"39",
-				"44",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
-				"121"
+				"121",
+				"127"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -2886,6 +2880,7 @@
 				655
 			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -2938,15 +2933,14 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
+				"246",
 				"34",
 				"36",
 				"38",
 				"39",
-				"44",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
 				"121",
 				"127"
@@ -2966,7 +2960,8 @@
 				671
 			],
 			"ItemWhitelist": [
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3013,23 +3008,22 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"200"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
+				"34",
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"76",
-				"96",
 				"109",
-				"121"
+				"121",
+				"127"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3037,8 +3031,14 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				688,
+				693,
+				697,
+				698
+			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -3074,7 +3074,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "",
+			"KillerNotes": "Survivors are allowed to open Vecna-specific Treasure Chests and use any MAGICAL ITEM they receive. \n\nAny non-magical item needs to either be left in its respective chest or right outside. You may not use or take those items. \n\nIf a Survivor is found to have broken the rule above they will be disqualified for the rest of the day and incur a severe penalty for the match. ",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -3091,16 +3091,16 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
+				"246",
 				"34",
 				"36",
 				"38",
 				"39",
-				"44",
+				"261",
 				"57",
 				"61",
 				"65",
 				"76",
-				"96",
 				"109",
 				"112",
 				"121",
@@ -3121,6 +3121,7 @@
 				718
 			],
 			"ItemWhitelist": [
+				0,
 				6
 			],
 			"AddonWhitelist": {
@@ -3156,6 +3157,85 @@
 		},
 		{
 			"Name": "The Dark Lord",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"11",
+				"21",
+				"34",
+				"36",
+				"38",
+				"261",
+				"57",
+				"61",
+				"76",
+				"109",
+				"121"
+			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				722,
+				733,
+				734,
+				735,
+				736,
+				737,
+				738
+			],
+			"ItemWhitelist": [
+				6,
+				0
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5,
+				8
+			]
+		},
+		{
+			"Name": "The Houndmaster",
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
