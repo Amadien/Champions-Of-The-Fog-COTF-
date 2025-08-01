@@ -1,6 +1,6 @@
 {
 	"Name": "Champions Of The Fog (Seasonal)",
-	"Version": 1753934091,
+	"Version": 1754015981,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Any Indoor Map Will Require A Putrid Oak And Only A shroud Of Binding + Vigos Shroud",
 	"Tiers": [
@@ -225,7 +225,12 @@
 				"121",
 				"127"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"52",
+					"286"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -293,6 +298,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -383,7 +389,12 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"52",
+					"286"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -457,7 +468,12 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"52",
+					"286"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -547,6 +563,7 @@
 				"21",
 				"27",
 				"28",
+				"286",
 				"32",
 				"34",
 				"36",
@@ -981,6 +998,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -1068,6 +1086,7 @@
 				"21",
 				"27",
 				"28",
+				"286",
 				"32",
 				"34",
 				"36",
@@ -1356,6 +1375,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -1436,6 +1456,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -1684,6 +1705,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -1778,6 +1800,7 @@
 				"12",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -1857,6 +1880,7 @@
 				"52",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -1938,7 +1962,12 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"52",
+					"286"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -2114,6 +2143,7 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -2275,6 +2305,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -2526,6 +2557,7 @@
 				"21",
 				"27",
 				"28",
+				"286",
 				"32",
 				"34",
 				"36",
@@ -3026,6 +3058,7 @@
 				"13",
 				"21",
 				"28",
+				"286",
 				"32",
 				"34",
 				"36",
@@ -3113,6 +3146,7 @@
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -3193,6 +3227,7 @@
 				"52",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
@@ -3480,6 +3515,7 @@
 				"52",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
