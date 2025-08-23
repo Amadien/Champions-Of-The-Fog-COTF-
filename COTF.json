@@ -1,6 +1,6 @@
 {
 	"Name": "Champions Of The Fog (Seasonal)",
-	"Version": 1755922948,
+	"Version": 1755923835,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Any Indoor Map Will Require A Putrid Oak And Only A shroud Of Binding + Vigos Shroud",
 	"Tiers": [
@@ -2896,18 +2896,19 @@
 				"11",
 				"13",
 				"21",
-				"246",
+				"286",
 				"34",
 				"36",
-				"37",
 				"38",
 				"39",
+				"44",
 				"261",
 				"57",
 				"61",
 				"65",
 				"69",
 				"76",
+				"82",
 				"92",
 				"109",
 				"112",
@@ -2922,7 +2923,11 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				617,
-				618
+				618,
+				604,
+				611,
+				614,
+				616
 			],
 			"ItemWhitelist": [
 				0,
@@ -2951,8 +2956,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2977,14 +2981,15 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
-				"8",
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
 				"39",
+				"44",
 				"261",
 				"57",
 				"61",
@@ -3004,7 +3009,9 @@
 				635,
 				636,
 				637,
-				638
+				638,
+				634,
+				633
 			],
 			"ItemWhitelist": [
 				6,
@@ -3033,8 +3040,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3059,18 +3065,21 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
-				"8",
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
 				"39",
+				"44",
+				"261",
 				"57",
 				"61",
 				"69",
 				"76",
+				"92",
 				"109",
 				"121",
 				"127"
@@ -3087,7 +3096,8 @@
 				657,
 				658,
 				654,
-				655
+				655,
+				648
 			],
 			"ItemWhitelist": [
 				0,
@@ -3116,8 +3126,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3142,20 +3151,27 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
-				"8",
 				"11",
 				"13",
 				"21",
-				"246",
+				"28",
+				"286",
+				"32",
 				"34",
 				"36",
 				"38",
 				"39",
+				"44",
+				"54",
 				"57",
 				"61",
 				"69",
 				"76",
+				"85",
+				"94",
+				"92",
 				"109",
+				"115",
 				"121",
 				"127"
 			],
@@ -3174,8 +3190,7 @@
 				671
 			],
 			"ItemWhitelist": [
-				6,
-				0
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3200,8 +3215,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3226,14 +3240,15 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
-				"8",
 				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
 				"39",
+				"44",
 				"261",
 				"57",
 				"61",
@@ -3282,8 +3297,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3308,25 +3322,18 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
-				"8",
-				"11",
 				"13",
 				"21",
-				"246",
+				"286",
 				"34",
 				"36",
 				"38",
-				"39",
-				"261",
-				"57",
+				"44",
 				"61",
-				"65",
 				"69",
 				"76",
 				"109",
-				"112",
-				"121",
-				"127"
+				"121"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3336,11 +3343,13 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				713,
-				714,
-				715,
 				716,
 				717,
-				718
+				718,
+				708,
+				700,
+				705,
+				704
 			],
 			"ItemWhitelist": [
 				0,
@@ -3369,8 +3378,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3395,13 +3403,13 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
-				"8",
-				"11",
 				"13",
 				"21",
+				"286",
 				"34",
 				"36",
 				"38",
+				"44",
 				"261",
 				"57",
 				"61",
@@ -3452,8 +3460,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3463,7 +3470,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
