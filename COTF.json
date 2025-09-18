@@ -1,6 +1,6 @@
 {
 	"Name": "Champions Of The Fog (Seasonal)",
-	"Version": 1757790767,
+	"Version": 1758171967,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Any Indoor Map Will Require A Putrid Oak And Only A shroud Of Binding + Vigos Shroud",
 	"Tiers": [
@@ -821,7 +821,7 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "No Double Haft (Oak Haft + Bandaged Haft)",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -2522,6 +2522,7 @@
 				"1",
 				"52",
 				"8",
+				"11",
 				"13",
 				"21",
 				"27",
@@ -2615,7 +2616,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"200"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
