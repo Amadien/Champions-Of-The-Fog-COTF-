@@ -1,6 +1,6 @@
 {
 	"Name": "Champions Of The Fog (Seasonal)",
-	"Version": 1761634970,
+	"Version": 1761705630,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Any Indoor Map Will Require A Putrid Oak And Only A shroud Of Binding + Vigos Shroud",
 	"Tiers": [
@@ -408,7 +408,9 @@
 					"160"
 				]
 			],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"286"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -853,7 +855,6 @@
 				"39",
 				"44",
 				"261",
-				"54",
 				"57",
 				"61",
 				"65",
@@ -1013,6 +1014,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
@@ -1237,7 +1239,8 @@
 				"107",
 				"109",
 				"112",
-				"121"
+				"121",
+				"127"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2210,7 +2213,8 @@
 			"IndividualAddonBans": [
 				457,
 				458,
-				455
+				455,
+				456
 			],
 			"ItemWhitelist": [
 				0,
@@ -3528,6 +3532,7 @@
 			"SurvivorIndvPerkBans": [
 				"286",
 				"34",
+				"36",
 				"38",
 				"39",
 				"44",
